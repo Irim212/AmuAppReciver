@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AmuAppReciver</string>
+    <string name="action_sign_in_short">Logowanie</string>
+</resources>
